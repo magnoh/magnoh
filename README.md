@@ -15,70 +15,62 @@ const magnoCardoso = {
 };
 🚀 Stack Tecnológica
 💻 Linguagens
-Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 
-JavaScript / TypeScript
 
-SQL e MySQL
 
 🛠️ Frameworks & Backend
-FastAPI
+![REST API](https://img.shields.io/badge/API_REST-000000?style=for-the-badge)
 
-Node.js
 
-Express
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-APIs REST
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
 
 Arquitetura em camadas (Repository Pattern)
 
 🎨 Frontend
-React
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui)
 
-Vite
 
-Chakra UI
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-HTML5 | CSS3
 
 🗄️ Banco de Dados
-PostgreSQL
-
-MySQL
-
-SQLite
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 🔄 Automação & Scraping
-Selenium
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge)
 
-Playwright
-
-BeautifulSoup
 
 Processamento de CSV / Excel (XLSX)
 
 ⚙️ DevOps & Versionamento
-Git & GitHub
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Docker (ambientes e serviços)
-
-Linux / Windows
-
-Variáveis de ambiente e pipelines simples
+![CSV](https://img.shields.io/badge/CSV-0A9EDC?style=for-the-badge)
+![Excel](https://img.shields.io/badge/XLSX-217346?style=for-the-badge&logo=microsoft-excel)
 
 🔐 Segurança
-JWT (autenticação e autorização)
-
-Controle de acesso por perfil
-
-Boas práticas em APIs
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
 🧪 Testes & Qualidade
-Testes manuais e automatizados
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest)
 
-Validações de dados
-
-Padronização de código (ESLint, boas práticas)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint)
+![Clean Code](https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge)
 
 🎯 Sobre Mim
 🔹 Desenvolvedor Full Stack com forte atuação em backend e integrações
@@ -100,7 +92,7 @@ Código limpo, organizado e com propósito
 
 📫 Vamos Conversar?
 <div align="center">
-
-https://linkedin.com/in/magno-cardoso
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Magno_Cardoso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/magno-cardoso)
 
 </div> <div align="center"> <h3>💡 "Tecnologia é meio. Resultado é o fim."</h3> </div> ```
