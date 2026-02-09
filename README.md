@@ -18,20 +18,21 @@ const magnoCardoso = {
 🚀 Stack Tecnológica
 💻 Linguagens
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Typescript) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=Fastapi)
 
 
 
 🛠️ Frameworks & Backend
 
-![REST API](https://img.shields.io/badge/API_REST-000000?style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/API_REST-000000?style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 
 Arquitetura em camadas (Repository Pattern)
 
 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite) ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite) ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Tailwind](https://img.shields.io/badge/Tailwind-1572B6?style=for-the-badge&logo=Tailwind)
 
 
 🗄️ Banco de Dados
@@ -47,7 +48,7 @@ Processamento de CSV / Excel (XLSX)
 
 ⚙️ DevOps & Versionamento
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![CSV](https://img.shields.io/badge/CSV-0A9EDC?style=for-the-badge) ![Excel](https://img.shields.io/badge/XLSX-217346?style=for-the-badge&logo=microsoft-excel)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![CSV](https://img.shields.io/badge/CSV-0A9EDC?style=for-the-badge) ![Excel](https://img.shields.io/badge/XLSX-217346?style=for-the-badge&logo=microsoft-excel)
 
 🔐 Segurança
 
