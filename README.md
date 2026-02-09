@@ -1,7 +1,7 @@
 # Olá, eu sou o Magno Cardoso!
 
-```
-javascript const magno = {
+```javascript
+const magno = {
   cargo: "Desenvolvedor Full Stack",
   foco: [
     "Backend Escalável",
