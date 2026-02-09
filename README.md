@@ -18,7 +18,7 @@ javascript const magno = {
 ## 🚀 Stack Tecnológica
 ### 💻 **Linguagens**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Typescript) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=Fastapi)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=Fastapi)
 
 
 
@@ -59,22 +59,21 @@ javascript const magno = {
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint) ![Clean Code](https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge)
 
 🎯 Sobre Mim
-🔹 Desenvolvedor Full Stack com forte atuação em backend e integrações
-🔹 Foco em automação, eficiência operacional e dados
-🔹 Vivência real com regras de negócio complexas (crédito, relatórios, métricas)
-🔹 Mentalidade de produto: penso além do código, penso no impacto
-🔹 Sempre buscando evoluir em arquitetura, performance e escalabilidade
+🔹 **Desenvolvedor Full Stack** com forte atuação em backend e integrações
+🔹 **Vivência real com regras de negócio complexas** (crédito, relatórios, métricas)
+🔹 **Mentalidade de produto:** penso além do código, penso no impacto
+🔹 **Sempre buscando evoluir** em arquitetura, performance e escalabilidade
 
 📌 O que você vai encontrar por aqui
-APIs bem estruturadas com FastAPI
+**APIs bem estruturadas com FastAPI**
 
-Projetos de automação e processamento de dados
+**Projetos de automação e processamento de dados**
 
-Integrações com bancos, sistemas e planilhas
+**Integrações com bancos, sistemas e planilhas**
 
-Experimentos com SaaS, MVPs e produtos digitais
+**Experimentos com SaaS, MVPs e produtos digitais**
 
-Código limpo, organizado e com propósito
+**Código limpo, organizado e com propósito**
 ---
 
 ## 📫 Vamos Conversar?
