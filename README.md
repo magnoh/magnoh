@@ -1,6 +1,17 @@
 # Olá, eu sou o Magno Cardoso!
 
-javascript const magnoCardoso = {  cargo: "Desenvolvedor Full Stack",  foco: ["Soluções SaaS", "Automação de Processos", "Arquitetura Escalável", "Integrações e Dados"], aprendizadoContinuo: true, mentalidade: "Código bom o que gera valor e escala", filosofia: "Se tá funcionando, documenta. Se não tá, refatora."};
+javascript const magno = {
+  cargo: "Desenvolvedor Full Stack",
+  foco: [
+    "Backend Escalável",
+    "Automação de Processos",
+    "SaaS B2B",
+    "Dados & Integrações"
+  ],
+  stackPrincipal: ["Python", "TypeScript", "Node.js"],
+  mindset: "Código que resolve problema de negócio",
+  filosofia: "Se não gera valor, é só código bonito."
+}
 
 🚀 Stack Tecnológica
 💻 Linguagens
