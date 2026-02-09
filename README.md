@@ -1,6 +1,7 @@
-# 👋 Olá, eu sou o Magno Cardoso!
+# Olá, eu sou o Magno Cardoso!
 
 JavaScript
+
 const magnoCardoso = {
   cargo: "Desenvolvedor Full Stack",
   foco: [
@@ -79,4 +80,4 @@ Código limpo, organizado e com propósito
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Magno_Cardoso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/magno-cardoso)
 
-</div> <div align="center"> <h3>💡 "Tecnologia é meio. Resultado é o fim."</h3> </div> ```
+</div> <div align="center"> <h3>💡 "Tecnologia é meio. Resultado é o fim."</h3> </div> 
